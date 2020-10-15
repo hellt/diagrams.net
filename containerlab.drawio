@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-15T06:49:02.053Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="QfacN6BquE-CSTa2p8_X" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-15T07:00:13.732Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="Sn1oZE0aAkMAHd7gIgTU" version="13.8.0" type="github" pages="2">
   <diagram id="pqXCdQUKRn2x1dWqDvbr" name="intro topologies">
     <mxGraphModel dx="1173" dy="629" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -771,6 +771,56 @@
             <mxPoint x="484" y="392" as="sourcePoint" />
             <mxPoint x="484" y="203" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="vQ0_ktQc3MkOuop-DZwt" name="topo_single_srl">
+    <mxGraphModel dx="477" dy="256" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="fYKZcJDmddNhOSSWLx96-0" />
+        <mxCell id="fYKZcJDmddNhOSSWLx96-1" parent="fYKZcJDmddNhOSSWLx96-0" />
+        <mxCell id="fYKZcJDmddNhOSSWLx96-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#001135;strokeColor=none;connectable=1;allowArrows=1;" vertex="1" parent="fYKZcJDmddNhOSSWLx96-1">
+          <mxGeometry x="220" y="350" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fYKZcJDmddNhOSSWLx96-4" value="" style="endArrow=open;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;endFill=0;startSize=6;endSize=2;strokeColor=#FFFFFF;" edge="1" parent="fYKZcJDmddNhOSSWLx96-1">
+          <mxGeometry x="220" y="350" width="50" height="50" as="geometry">
+            <mxPoint x="223" y="362" as="sourcePoint" />
+            <mxPoint x="231" y="353" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="231" y="362" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fYKZcJDmddNhOSSWLx96-5" value="" style="endArrow=open;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;endFill=0;startSize=6;endSize=2;strokeColor=#FFFFFF;" edge="1" parent="fYKZcJDmddNhOSSWLx96-1">
+          <mxGeometry x="220" y="350" width="50" height="50" as="geometry">
+            <mxPoint x="231" y="377" as="sourcePoint" />
+            <mxPoint x="223" y="369" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="231" y="369" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fYKZcJDmddNhOSSWLx96-6" value="" style="endArrow=open;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;endFill=0;startSize=6;endSize=2;strokeColor=#FFFFFF;" edge="1" parent="fYKZcJDmddNhOSSWLx96-1">
+          <mxGeometry x="220" y="350" width="50" height="50" as="geometry">
+            <mxPoint x="238" y="353" as="sourcePoint" />
+            <mxPoint x="247" y="362" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="238" y="362" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fYKZcJDmddNhOSSWLx96-7" value="" style="endArrow=open;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;endFill=0;startSize=6;endSize=2;strokeColor=#FFFFFF;" edge="1" parent="fYKZcJDmddNhOSSWLx96-1">
+          <mxGeometry x="220" y="350" width="50" height="50" as="geometry">
+            <mxPoint x="247" y="369" as="sourcePoint" />
+            <mxPoint x="238" y="377" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="238" y="369" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fYKZcJDmddNhOSSWLx96-8" value="SR&lt;br&gt;Linux" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=8;fontFamily=Manrope;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DManrope;" vertex="1" parent="fYKZcJDmddNhOSSWLx96-1">
+          <mxGeometry x="215" y="375" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
